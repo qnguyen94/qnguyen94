@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on front-end and API programming projects.
 - 📫 How to reach me:
       LinkedIn: https://www.linkedin.com/in/quang-nguyen-n94/
-      Github: https://github.com/qnguyen9
+      Github: https://github.com/qnguyen94
       StackOverflow: https://stackoverflow.com/users/15585398/quang-nguyen
 
 <!---
