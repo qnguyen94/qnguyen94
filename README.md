@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Quang Nguyen
 - 👀 I’m interested in transfroming business ideas into functional and helpful applications.
-- 🌱 I’m currently learning NodeJs, ReactJS, and Mongoose.
-- 💞️ I’m looking to collaborate on front-end and API programming projects.
-- 📫 How to reach me:
+- 🌱 I started my developmente journey with NodeJs, ReactJS, and Mongoose.
+- 💞️ Now I'm working as a techical associate that help integrating manufacturing hardware with data systems using C#, T-SQL, and VB languages.
+- 📫 Connect with me:
       LinkedIn: https://www.linkedin.com/in/quang-nguyen-n94/
       Github: https://github.com/qnguyen94
       StackOverflow: https://stackoverflow.com/users/15585398/quang-nguyen
